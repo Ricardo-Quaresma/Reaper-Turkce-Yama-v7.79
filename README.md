@@ -3,7 +3,7 @@
 =============================================================
 
 Bu dil paketi (Türkçe Yama.ReaperLangPack), REAPER yazılımını büyük ölçüde Türkçe kullanmanızı sağlar.
-Çevirisi yapay zeka kullanılarak yapılmıştır. Hatalar olabilir. Uygulamanın %90'a yakın kısmı çevrilmiştir. Sadece vanilla sürümü içerir
+Çevirisi yapay zeka kullanılarak yapılmıştır. Hatalar olabilir. Uygulamanın %85'e yakın kısmı çevrilmiştir. Sadece vanilla sürümü içerir
 
 YÖNTEM 1 (Sürükle ve Bırak - En Kolay Yöntem):
 1. REAPER programını açın.
